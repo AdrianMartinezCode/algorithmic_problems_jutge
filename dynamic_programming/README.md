@@ -1,0 +1,2 @@
+All of problems statements from this repository has been extracted from jutge.org.
+I'm just limiting myself to resolve this problems, upload to jutge.org to correct them, and uploading the solutions to my personal repository.
